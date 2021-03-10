@@ -1,6 +1,8 @@
 
 public abstract class Pokemon {
   // Can only be accessed by the inherited class
+
+  // Kyle's Comment
   private String name;
   private String color;
   private boolean hasTrainer;  
